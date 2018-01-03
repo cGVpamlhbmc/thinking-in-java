@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06cd7295-3e2c-4c66-a0b1-4714c2d78a9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/interfaces/music4/Music4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/polymorphism/music/Note.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/description.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/project-template.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinking-in-java.iml" afterPath="$PROJECT_DIR$/thinking-in-java.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -616,12 +610,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514971807751</updated>
-      <workItem from="1514971811765" duration="829000" />
+      <workItem from="1514971811765" duration="968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="829000" />
+    <option name="totallyTimeSpent" value="968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
