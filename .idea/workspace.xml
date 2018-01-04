@@ -2,58 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06cd7295-3e2c-4c66-a0b1-4714c2d78a9f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/AdaptedRandomDoubles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/C.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/C2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/C3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/C4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/Factories.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/I1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/I2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/I3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/Implementation1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/Implementation1Factory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/Implementation2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/Implementation2Factory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/InterfaceCollision.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/RandomDoubles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/RandomWords.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/Service.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/ServiceFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/classprocessor/Apply.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/classprocessor/Downcase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/classprocessor/Processor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/classprocessor/Splitter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/classprocessor/Upcase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/filters/BandPass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/filters/Filter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/filters/HighPass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/filters/LowPass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/filters/Waveform.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/interfaceprocessor/Apply.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/interfaceprocessor/Downcase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/interfaceprocessor/FilterAdaper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/interfaceprocessor/FilterProcessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/interfaceprocessor/Processor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/interfaceprocessor/Splitter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/interfaceprocessor/StringProcessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/interfaceprocessor/Upcase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music4/Brass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music4/Instrument.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music4/Music4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music4/Percussion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music4/Stringed.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music4/Wind.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music4/Woodwind.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music5/Brass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music5/Instrument.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music5/Music5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music5/Percussion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music5/Stringed.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music5/Wind.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/interfaces/music5/Woodwind.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/thinking-in-java/com/demo/polymorphism/music/Note.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -157,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Factories.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Factories.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/demo/interfaces/Factories.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+            <state relative-caret-position="265">
+              <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
               <folding>
                 <element signature="e#280#281#0" expanded="true" />
                 <element signature="e#341#342#0" expanded="true" />
@@ -176,6 +125,16 @@
                 <element signature="e#1005#1006#0" expanded="true" />
                 <element signature="e#1049#1050#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -836,12 +795,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514971807751</updated>
-      <workItem from="1514971811765" duration="13912000" />
+      <workItem from="1514971811765" duration="14007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13912000" />
+    <option name="totallyTimeSpent" value="14007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1105,18 +1064,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/demo/interfaces/Factories.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="265">
+          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
           <folding>
             <element signature="e#280#281#0" expanded="true" />
             <element signature="e#341#342#0" expanded="true" />
@@ -1131,6 +1082,14 @@
             <element signature="e#1005#1006#0" expanded="true" />
             <element signature="e#1049#1050#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
