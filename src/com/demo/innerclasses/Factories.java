@@ -1,5 +1,7 @@
 package com.demo.innerclasses;
 
+import java.util.ArrayList;
+
 interface Service {
     void method1();
 
@@ -65,6 +67,7 @@ public class Factories {
     public static void main(String[] args) {
         serviceConsumer(Implementation1.factory);
         serviceConsumer(Implementation2.factory);
+        ArrayList<Service> arrayList=new ArrayList<>();
     }
 
 }
