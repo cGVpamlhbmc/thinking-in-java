@@ -20,6 +20,6 @@ public class ListFeatures {
         pets.remove(hamster);
         Pet pet = pets.get(2);
         System.out.println("4: " + pet + " " + pets.indexOf(pet));
-        
+
     }
 }

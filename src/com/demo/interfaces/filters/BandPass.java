@@ -1,7 +1,7 @@
 package com.demo.interfaces.filters;
 
 /**
- * Created by ypj6024 on 2018/1/4.
+ * Created by on 2018/1/4.
  */
 public class BandPass extends Filter {
     double lowCutoff, highCutoff;
