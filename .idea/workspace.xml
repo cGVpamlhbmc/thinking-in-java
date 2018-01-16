@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06cd7295-3e2c-4c66-a0b1-4714c2d78a9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/strings/SimpleRead.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/strings/TheReplacements.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/TextFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/generics/Holder1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/generics/Holder2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/generics/Holder3.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,41 +21,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DynamicFields.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/demo/exceptions/DynamicFields.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1596">
-              <caret line="84" column="30" lean-forward="false" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NeverCaught.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/demo/exceptions/NeverCaught.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-              <folding>
-                <element signature="e#206#207#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Immutable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/demo/strings/Immutable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UsingStringBuilder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/demo/strings/UsingStringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,13 +78,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleRead.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleRead.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/demo/strings/SimpleRead.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Holder1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/generics/Holder1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding>
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Holder2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/generics/Holder2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Holder3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/generics/Holder3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="26" column="58" lean-forward="false" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,10 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/demo/innerclasses/Parcel8.java" />
-        <option value="$PROJECT_DIR$/src/com/demo/innerclasses/Factories.java" />
-        <option value="$PROJECT_DIR$/src/com/demo/holding/ApplesAndOrangesWithoutGenerics.java" />
-        <option value="$PROJECT_DIR$/src/com/demo/holding/GenericsAndUpcasting.java" />
         <option value="$PROJECT_DIR$/src/com/demo/holding/SimpleCollection.java" />
         <option value="$PROJECT_DIR$/src/com/demo/holding/AddingGroups.java" />
         <option value="$PROJECT_DIR$/src/com/demo/holding/AsListInference.java" />
@@ -213,6 +224,10 @@
         <option value="$PROJECT_DIR$/src/com/demo/strings/Rudolph.java" />
         <option value="$PROJECT_DIR$/src/com/demo/strings/TheReplacements.java" />
         <option value="$PROJECT_DIR$/src/com/demo/strings/SimpleRead.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/generics/Holder.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/generics/Holder1.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/generics/Holder2.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/generics/Holder3.java" />
       </list>
     </option>
   </component>
@@ -319,7 +334,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="strings" />
+              <option name="myItemId" value="generics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,27 +415,7 @@
       <recent name="D:\usr\pj.code\java\thinking-in-java\src\com\demo\polymorphism\music" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleRead">
-    <configuration default="false" name="UsingStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.demo.strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.demo.strings.UsingStringBuilder" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thinking-in-java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Holder2">
     <configuration default="false" name="InfiniteRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -489,6 +484,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.demo.strings.SimpleRead" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="thinking-in-java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Holder2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.demo.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.demo.generics.Holder2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -882,19 +897,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.UsingStringBuilder" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InfiniteRecursion" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Rudolph" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TheReplacements" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SimpleRead" />
+      <item index="0" class="java.lang.String" itemvalue="Application.InfiniteRecursion" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Rudolph" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TheReplacements" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SimpleRead" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Holder2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SimpleRead" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TheReplacements" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Rudolph" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InfiniteRecursion" />
-        <item index="4" class="java.lang.String" itemvalue="Application.UsingStringBuilder" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Holder2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleRead" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TheReplacements" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Rudolph" />
+        <item index="4" class="java.lang.String" itemvalue="Application.InfiniteRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -914,16 +929,16 @@
       <workItem from="1514971811765" duration="35596000" />
       <workItem from="1515391969945" duration="6423000" />
       <workItem from="1515572654857" duration="16818000" />
-      <workItem from="1515948290439" duration="6001000" />
+      <workItem from="1515948290439" duration="7807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64838000" />
+    <option name="totallyTimeSpent" value="66644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -935,9 +950,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33838382" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33670035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -973,27 +988,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/demo/polymorphism/music/Note.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/typeinfo/pets/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1159">
@@ -1089,6 +1083,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1142,6 +1139,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1376,6 +1374,50 @@
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/generics/Holder1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/generics/Holder2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/generics/Holder3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="26" column="58" lean-forward="false" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
           </folding>
         </state>
       </provider>
