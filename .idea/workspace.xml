@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06cd7295-3e2c-4c66-a0b1-4714c2d78a9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/arrays/FillingArrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/arrays/GeneratorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/CountingGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/arrays/RandomGeneratorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net/mindview/util/RandomGenerator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,28 +20,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MultidimensionalPrimitiveArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/demo/arrays/MultidimensionalPrimitiveArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RaggedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/demo/arrays/RaggedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MultidimensionalObjectArrays.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/demo/arrays/MultidimensionalObjectArrays.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,7 +111,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GeneratorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GeneratorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/demo/arrays/GeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
@@ -143,6 +120,46 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#746#747#0" expanded="true" />
                 <element signature="e#791#792#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/mindview/util/RandomGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="101" column="5" lean-forward="false" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+              <folding>
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#1026#1027#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1184#1185#0" expanded="true" />
+                <element signature="e#1234#1235#0" expanded="true" />
+                <element signature="e#1428#1429#0" expanded="true" />
+                <element signature="e#1464#1465#0" expanded="true" />
+                <element signature="e#1507#1508#0" expanded="true" />
+                <element signature="e#1552#1553#0" expanded="true" />
+                <element signature="e#1734#1735#0" expanded="true" />
+                <element signature="e#1770#1771#0" expanded="true" />
+                <element signature="e#1810#1811#0" expanded="true" />
+                <element signature="e#1875#1876#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomGeneratorTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/arrays/RandomGeneratorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding>
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -176,8 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/demo/generics/Store.java" />
-        <option value="$PROJECT_DIR$/src/com/demo/generics/ErasedTypeEquivalence.java" />
         <option value="$PROJECT_DIR$/src/com/demo/generics/LostInformation.java" />
         <option value="$PROJECT_DIR$/src/com/demo/generics/Manipulator2.java" />
         <option value="$PROJECT_DIR$/src/com/demo/generics/ErasureAndInheritance.java" />
@@ -227,6 +242,8 @@
         <option value="$PROJECT_DIR$/src/com/demo/arrays/FillingArrays.java" />
         <option value="$PROJECT_DIR$/src/net/mindview/util/CountingGenerator.java" />
         <option value="$PROJECT_DIR$/src/com/demo/arrays/GeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/net/mindview/util/RandomGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/arrays/RandomGeneratorTest.java" />
       </list>
     </option>
   </component>
@@ -362,31 +379,11 @@
       <recent name="D:\usr\pj.code\java\thinking-in-java\src\com\demo\polymorphism\music" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GeneratorTest">
-    <configuration default="false" name="MultidimensionalObjectArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.demo.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.demo.arrays.MultidimensionalObjectArrays" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thinking-in-java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.RandomGeneratorTest">
     <configuration default="false" name="AutoboxingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.demo.arrays.*" />
+          <option name="PATTERN" value="net.mindview.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -406,7 +403,7 @@
     <configuration default="false" name="AssemblingMultidimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.demo.arrays.*" />
+          <option name="PATTERN" value="net.mindview.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,7 +423,7 @@
     <configuration default="false" name="FillingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.demo.arrays.*" />
+          <option name="PATTERN" value="net.mindview.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -446,11 +443,31 @@
     <configuration default="false" name="GeneratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.demo.arrays.*" />
+          <option name="PATTERN" value="net.mindview.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.demo.arrays.GeneratorTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="thinking-in-java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RandomGeneratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.demo.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.demo.arrays.RandomGeneratorTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -844,19 +861,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MultidimensionalObjectArrays" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AutoboxingArrays" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AssemblingMultidimensionalArrays" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FillingArrays" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GeneratorTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.AutoboxingArrays" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AssemblingMultidimensionalArrays" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FillingArrays" />
+      <item index="3" class="java.lang.String" itemvalue="Application.GeneratorTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RandomGeneratorTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.GeneratorTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FillingArrays" />
-        <item index="2" class="java.lang.String" itemvalue="Application.AssemblingMultidimensionalArrays" />
-        <item index="3" class="java.lang.String" itemvalue="Application.AutoboxingArrays" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MultidimensionalObjectArrays" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RandomGeneratorTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GeneratorTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FillingArrays" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AssemblingMultidimensionalArrays" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AutoboxingArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -879,12 +896,12 @@
       <workItem from="1515948290439" duration="49717000" />
       <workItem from="1516606858153" duration="6229000" />
       <workItem from="1516690180652" duration="11067000" />
-      <workItem from="1517275704919" duration="22611000" />
+      <workItem from="1517275704919" duration="23262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148461000" />
+    <option name="totallyTimeSpent" value="149112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -947,20 +964,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/demo/generics/ArrayMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/generics/ListMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/demo/generics/FillListMaker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1439,6 +1442,42 @@
             <element signature="imports" expanded="true" />
             <element signature="e#746#747#0" expanded="true" />
             <element signature="e#791#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/RandomGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="101" column="5" lean-forward="false" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1184#1185#0" expanded="true" />
+            <element signature="e#1234#1235#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
+            <element signature="e#1507#1508#0" expanded="true" />
+            <element signature="e#1552#1553#0" expanded="true" />
+            <element signature="e#1734#1735#0" expanded="true" />
+            <element signature="e#1770#1771#0" expanded="true" />
+            <element signature="e#1810#1811#0" expanded="true" />
+            <element signature="e#1875#1876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/arrays/RandomGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
           </folding>
         </state>
       </provider>
