@@ -42,6 +42,6 @@ class Letters implements Generator<Pair<Integer, String>>, Iterable<Integer> {
 public class MapDataTest {
     public static void main(String[] args) {
         System.out.println(MapData.map(new Letters(), 11));
-//        System.out.println(MapData.map(new CountingGenerator.Character(), new RandomGenerator().String(3), 8);
+        System.out.println(MapData.map(new CountingGenerator.Character(), new RandomGenerator.String(3), 8));
     }
 }
