@@ -9,7 +9,7 @@ import java.io.StringReader;
  */
 public class MemoryInput {
     public static void main(String[] args) throws IOException {
-        StringReader in = new StringReader(BufferedInputFile.read("D:\\usr\\pj.code\\java\\thinking-in-java\\src\\com\\demo\\io\\MemoryInput.java"));
+        StringReader in = new StringReader(BufferedInputFile.read("MemoryInput.java"));
         int c;
         while ((c = in.read()) != -1)
             System.out.print((char) c);
