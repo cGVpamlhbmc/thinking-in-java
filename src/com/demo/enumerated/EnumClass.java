@@ -1,4 +1,4 @@
-package com.demo.io;
+package com.demo.enumerated;
 
 /**
  * Created on 2018/3/16.
