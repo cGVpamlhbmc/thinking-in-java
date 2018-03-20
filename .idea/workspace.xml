@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06cd7295-3e2c-4c66-a0b1-4714c2d78a9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/annotations/PasswordUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/annotations/UseCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/demo/annotations/UseCaseTracker.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,21 +19,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Meal2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/demo/enumerated/menu/Meal2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#960#961#0" expanded="true" />
-                <element signature="e#1003#1004#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AlarmPoints.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/demo/enumerated/AlarmPoints.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -126,7 +110,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PasswordUtils.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PasswordUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/demo/annotations/PasswordUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="385">
@@ -136,6 +120,19 @@
                 <element signature="e#311#312#0" expanded="true" />
                 <element signature="e#387#388#0" expanded="true" />
                 <element signature="e#458#459#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UseCaseTracker.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/annotations/UseCaseTracker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#827#836#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/net/mindview/util/ProcessFiles.java" />
         <option value="$PROJECT_DIR$/src/com/demo/io/DirectoryDemo2.java" />
         <option value="$PROJECT_DIR$/src/com/demo/io/ProcessFiles5.java" />
         <option value="$PROJECT_DIR$/src/com/demo/io/MakeDirectories.java" />
@@ -235,6 +231,7 @@
         <option value="$PROJECT_DIR$/src/com/demo/enumerated/Input.java" />
         <option value="$PROJECT_DIR$/src/com/demo/annotations/UseCase.java" />
         <option value="$PROJECT_DIR$/src/com/demo/annotations/PasswordUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/annotations/UseCaseTracker.java" />
       </list>
     </option>
   </component>
@@ -367,27 +364,7 @@
       <recent name="D:\usr\pj.code\java\thinking-in-java\src\com\demo\polymorphism\music" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OverrideConstantSpecific">
-    <configuration default="false" name="SecurityCategory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.demo.enumerated.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.demo.enumerated.SecurityCategory" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thinking-in-java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.UseCaseTracker">
     <configuration default="false" name="EnumSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -456,6 +433,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.demo.enumerated.OverrideConstantSpecific" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="thinking-in-java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UseCaseTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.demo.annotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.demo.annotations.UseCaseTracker" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -849,19 +846,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SecurityCategory" />
-      <item index="1" class="java.lang.String" itemvalue="Application.EnumSets" />
-      <item index="2" class="java.lang.String" itemvalue="Application.EnumMaps" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ConstantSpecificMethod" />
-      <item index="4" class="java.lang.String" itemvalue="Application.OverrideConstantSpecific" />
+      <item index="0" class="java.lang.String" itemvalue="Application.EnumSets" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EnumMaps" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ConstantSpecificMethod" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OverrideConstantSpecific" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UseCaseTracker" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.OverrideConstantSpecific" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ConstantSpecificMethod" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EnumMaps" />
-        <item index="3" class="java.lang.String" itemvalue="Application.EnumSets" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SecurityCategory" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UseCaseTracker" />
+        <item index="1" class="java.lang.String" itemvalue="Application.OverrideConstantSpecific" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ConstantSpecificMethod" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EnumMaps" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EnumSets" />
       </list>
     </recent_temporary>
   </component>
@@ -895,12 +892,12 @@
       <workItem from="1521104989848" duration="7215000" />
       <workItem from="1521122997718" duration="11372000" />
       <workItem from="1521374976993" duration="17189000" />
-      <workItem from="1521472902943" duration="2082000" />
+      <workItem from="1521472902943" duration="3440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="261786000" />
+    <option name="totallyTimeSpent" value="263144000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -918,6 +915,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -941,7 +939,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -963,13 +960,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/demo/io/MemoryInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="67" lean-forward="false" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/demo/io/BufferedInputFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1388,6 +1378,17 @@
             <element signature="e#311#312#0" expanded="true" />
             <element signature="e#387#388#0" expanded="true" />
             <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/annotations/UseCaseTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#827#836#0" expanded="true" />
           </folding>
         </state>
       </provider>
