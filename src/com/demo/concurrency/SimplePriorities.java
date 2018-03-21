@@ -16,7 +16,7 @@ public class SimplePriorities implements Runnable {
     }
 
     public String toString() {
-        return Thread.currentThread() + ": " + countDown + ", " + Thread.currentThread().getName();
+        return Thread.currentThread() + ": " + countDown;
     }
 
     @Override
